@@ -70,3 +70,8 @@
 </details>
 
 ##
+<br>
+<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=641cbd&height=100&section=footer"/>
+</div>
+<br>
