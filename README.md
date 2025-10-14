@@ -18,11 +18,11 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSouzz&theme=2077"/>
+  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSouzz&theme=github_dark"/>
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoSouzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="180" alt="languages graph"  />
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSouzz&theme=midnight_purple"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSouzz&theme=github_dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
