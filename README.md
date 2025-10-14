@@ -60,10 +60,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-3a1469?style=for-the-badge&logo=gmail&logoColor=035405)](mailto:brunojfgbilusbgbvdsg@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-3a1469?style=for-the-badge&logo=instagram&logoColor=035405)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
-  [![Discord](https://img.shields.io/badge/Discord-3a1469?style=for-the-badge&logo=Discord&logoColor=035405)](https://discord.gg/HbyP7JjDKZ)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-3a1469?style=for-the-badge&logo=linkedin&logoColor=035405)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
+  [![Gmail](https://img.shields.io/badge/Gmail-035405?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brunojfgbilusbgbvdsg@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-035405?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
+  [![Discord](https://img.shields.io/badge/Discord-035405?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/HbyP7JjDKZ)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-035405?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
   
 </div>
 <br>
