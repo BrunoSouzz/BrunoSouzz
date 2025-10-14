@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=035405"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=031454"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=035405&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=031454&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
 </div>
 <br>
 <br>
@@ -60,10 +60,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-035405?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brunojfgbilusbgbvdsg@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-035405?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
-  [![Discord](https://img.shields.io/badge/Discord-035405?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/HbyP7JjDKZ)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-035405?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
+  [![Gmail](https://img.shields.io/badge/Gmail-031454?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brunojfgbilusbgbvdsg@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-031454?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
+  [![Discord](https://img.shields.io/badge/Discord-031454?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/HbyP7JjDKZ)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-031454?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
   
 </div>
 <br>
@@ -73,6 +73,6 @@
 ##
 <br>
 <div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=035405&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=031454&height=100&section=footer"/>
 </div>
 <br>
