@@ -18,7 +18,7 @@
 <br>
       
 <div align="center">
-  <img height=200 aling="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSouzz&theme=github_dark"/> 
+  <img height=180 aling="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSouzz&theme=github_dark"/> <img height=180 aling="center" alt="GithubStatus" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSouzz&theme=github_dark&utcOffset=8"/>
 
   
   <br>
