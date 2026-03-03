@@ -18,8 +18,8 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSouzz&theme=github_dark"/>
-  <img height=180 aling="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSouzz&theme=github_dark"/> 
+  <img height=170 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSouzz&theme=github_dark"/>
+  <img height=170 aling="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSouzz&theme=github_dark"/> 
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSouzz&theme=github_dark"/>
