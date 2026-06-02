@@ -12,18 +12,18 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=116cad&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2b024f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
 </div>
 <br>
 <br>
       
 <div align="center">
-  <img height=180 aling="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSouzz&theme=github_dark"/> <img height=180 aling="center" alt="GithubStatus" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSouzz&theme=github_dark&utcOffset=8"/>
+  <img height=180 aling="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSouzz&theme=monokai"/> <img height=180 aling="center" alt="GithubStatus" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSouzz&theme=monokai&utcOffset=8"/>
 
   
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSouzz&theme=github_dark"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSouzz&theme=monokai"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -64,10 +64,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-116cad?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brunojfgbilusbgbvdsg@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-116cad?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
-  [![Discord](https://img.shields.io/badge/Discord-116cad?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/HbyP7JjDKZ)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-116cad?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
+  [![Gmail](https://img.shields.io/badge/Gmail-2b024f?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brunojfgbilusbgbvdsg@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2b024f?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
+  [![Discord](https://img.shields.io/badge/Discord-2b024f?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/HbyP7JjDKZ)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2b024f?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
   
 </div>
 <br>
