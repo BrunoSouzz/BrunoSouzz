@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2b024f"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#AE81FF"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2b024f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=AE81FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
 </div>
 <br>
 <br>
@@ -64,10 +64,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2b024f?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brunojfgbilusbgbvdsg@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2b024f?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
-  [![Discord](https://img.shields.io/badge/Discord-2b024f?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/HbyP7JjDKZ)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2b024f?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
+  [![Gmail](https://img.shields.io/badge/Gmail-AE81FF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brunojfgbilusbgbvdsg@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-AE81FF?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.brusouzz_?igsh=NTRwZXhmbzNtMG5s)
+  [![Discord](https://img.shields.io/badge/Discord-AE81FF?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/HbyP7JjDKZ)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-AE81FF?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-de-souza-dev-back-end)
   
 </div>
 <br>
@@ -77,6 +77,6 @@
 ##
 <br>
 <div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b024f&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE81FF&height=100&section=footer"/>
 </div>
 <br>
