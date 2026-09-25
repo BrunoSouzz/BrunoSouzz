@@ -13,9 +13,16 @@
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=AE81FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+<br>
+  <br>
+    <br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw4YWJvOTEzaXF0cHlwcDJzczAxc2VtNWI0bDF1N2l4enZ5dWJwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Animação de Boas-Vindas"/>
+    <br>
+<br>
+
+
+##
 </div>
-<br>
-<br>
       
 <div align="center">
   <img height=180 aling="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSouzz&theme=monokai"/> <img height=180 aling="center" alt="GithubStatus" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSouzz&theme=monokai&utcOffset=8"/>
@@ -74,7 +81,7 @@
 
 </details>
 
-##
+
 <br>
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE81FF&height=100&section=footer"/>
